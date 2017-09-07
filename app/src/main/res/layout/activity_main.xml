@@ -9,6 +9,7 @@
 
     <Button
         android:id="@+id/button_shadow"
+        android:background="@drawable/state_list_animator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteY="16dp"
